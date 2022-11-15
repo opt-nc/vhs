@@ -6,4 +6,4 @@ A set of [`charm_ VHS`](https://github.com/charmbracelet/vhs) `.tape` source cod
 
 # 🍿 Published tapes
 
-- Coming (very) ...
+- [Manage EOLs like a boos with `endoflife.date`](https://youtu.be/ZOoawjzVa0g)
