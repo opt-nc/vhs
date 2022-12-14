@@ -6,5 +6,5 @@ A set of [`charm_ VHS`](https://github.com/charmbracelet/vhs) `.tape` source cod
 
 # 🍿 Published tapes
 
-- [Manage EOLs like a boos with `endoflife.date`](https://youtu.be/ZOoawjzVa0g)
+- [Manage EOLs like a boss with `endoflife.date`](https://youtu.be/ZOoawjzVa0g)
 - [Apache Maven has landed on `endoflife.date`](https://youtu.be/nEMeppRgMZY)
